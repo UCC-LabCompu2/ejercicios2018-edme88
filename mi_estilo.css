@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+    background-image: linear-gradient(to right, #788cff, #A7BAFF);
+}
+div{
+    padding: 20px;
+    margin: 30px;
+    border: 2px solid #7a8aac;
+    border-radius: 20px;
+    background-color: rgba(167, 186, 255, 0.33);
+}
+
+.img_usuario{
+    width: 20%;
+    border-radius: 50%;
+}
+
+span{
+    font-weight: bold;
+    color: #f53fff;
+}
